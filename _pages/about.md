@@ -27,3 +27,19 @@ Work in progress
 2. Runshan Fu, Christopher Ryan, Mengzhenyu Zhang, “Signaling or learning for lean startups”, work in progress.
 3. Izak Duenyas, Ozge Sahin, Mengzhenyu Zhang, “Time-dependent cancellation policies: Implications for consumers decision making and firm profit”, work in progress.
 
+Teaching
+======
+### School of Management, University College London
+- Instructor: MSIN0095 Operations Analytics (22 Winter, 23 Winter, 24 Winter, evaluation: 4.7/5)
+### Stephen M. Ross School of Business, University of Michigan
+- Instructor: TO 302 Operations Management (18 Winter, class size: 68, evaluation: 4/5)
+- Teaching Assistant:
+- * TO 301: Business Statistics and Management Science (16 Fall)
+  * TO 502: Business Statistics (17 Fall)
+  * TO 618: Applied Business Analytics and Decisions (17 Winter, 17 Fall, 18 Fall, 19 Fall)
+  * TO 605: Manufacturing and Supply Operations (17 Winter)
+  * TO 899: Inventory Management (PhD course, 18 Fall, 20 Fall)
+  * EMBA 603: Business Analytics and Statistics for Executives (18 Fall)
+  * TO 567: Data Mining and Business Analytics (19 Winter, 19 Fall)
+  * TO 572: Applied Business Forecasting (19 Fall)
+  * EMBA 610: Managerial Big Data Analytics (19 Summer, 20 Summer)
