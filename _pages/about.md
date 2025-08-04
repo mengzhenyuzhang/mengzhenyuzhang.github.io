@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! Welcome to my website. I'm currently an assistant professor at UCL School of Management. My research interest falls in Revenue management, Information design, and Stochastic models. Feel free to contact me at zhenyu[dot]zhangmeng[at]ucl[dot]ac[dot]uk
+Hello! Welcome to my website. I am an Assistant Professor at the UCL School of Management. My research interests are in revenue management, information design, and stochastic modeling. Feel free to contact me at zhenyu[dot]zhangmeng[at]ucl[dot]ac[dot]uk.
 
 Research
 ======
