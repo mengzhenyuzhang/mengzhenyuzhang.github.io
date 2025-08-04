@@ -13,7 +13,7 @@ title                    : "Mengzhenyu Zhang / Personal Website"
 title_separator          : "-"
 name                     : &name "Mengzhenyu (Zhenyu) Zhang"
 description              : &description "personal description"
-url                      : https://mengzhenyuzhang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+URL                      : "https://mengzhenyuzhang.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mengzhenyuzhang/mengzhenyuzhang.github.io"
 
@@ -28,13 +28,13 @@ author:
   bio              : "Assistant Professor at the University College London"
   location         : "London"
   employer         : "University College London"
-  uri              : https://www.mgmt.ucl.ac.uk/people/mengzhenyuzhang # URL
+  URI              : "https://www.mgmt.ucl.ac.uk/people/mengzhenyuzhang" # URL
   email            : "zhenyu.zhangmeng@ucl.ac.uk" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=i5bbvakAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
