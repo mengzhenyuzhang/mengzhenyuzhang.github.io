@@ -7,4 +7,8 @@ author_profile: true
   <body style="width:100%; height:100%; margin:0;">
     <iframe src="https://docs.google.com/gview?url= https://github.com/mengzhenyuzhang/mengzhenyuzhang.github.io/blob/a302ecb955bfdb2d92a20b0e42602f9e0fe667d2/files/CV-9.pdf &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
   </body>
-</html>
+{% include base_path %}
+
+{% for post in site.cv reversed %}
+  {% include archive-single.html %}
+{% endfor %}
