@@ -22,14 +22,14 @@ repository               : "mengzhenyuzhang/mengzhenyuzhang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar           : "IMG_1385 3.JPG"
+  name             : "Mengzhenyu (Zhenyu) Zhang"
+  pronouns         : she/her # example: "she/her"  
+  bio              : "Assistant Professor at the University College London"
+  location         : "London"
+  employer         : "University College London"
+  uri              : https://www.mgmt.ucl.ac.uk/people/mengzhenyuzhang # URL
+  email            : "zhenyu.zhangmeng@ucl.ac.uk" 
 
   # Academic websites
   academia         : # URL
