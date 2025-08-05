@@ -31,10 +31,11 @@ Teaching
 ======
 ### School of Management, University College London
 - Instructor: MSIN0095 Operations Analytics (22 Winter, 23 Winter, 24 Winter, evaluation: 4.7/5)
+
 ### Stephen M. Ross School of Business, University of Michigan
 - Instructor: TO 302 Operations Management (18 Winter, class size: 68, evaluation: 4/5)
 - Teaching Assistant:
-- * TO 301: Business Statistics and Management Science (16 Fall)
+  * TO 301: Business Statistics and Management Science (16 Fall)
   * TO 502: Business Statistics (17 Fall)
   * TO 618: Applied Business Analytics and Decisions (17 Winter, 17 Fall, 18 Fall, 19 Fall)
   * TO 605: Manufacturing and Supply Operations (17 Winter)
