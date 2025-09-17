@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! Welcome to my website. I am an Assistant Professor in Operations & Technology at the UCL School of Management. I graduated from the Stephen M. Ross School of Business, University of Michigan, where I obtained my PhD in Technology and Operations. My research interests are in revenue management, information design, and stochastic modeling. Feel free to contact me at zhenyu[dot]zhangmeng[at]ucl[dot]ac[dot]uk.
+Hello! Welcome to my website. I am an Assistant Professor in Operations & Technology at the UCL School of Management. I graduated from the Stephen M. Ross School of Business, University of Michigan, where I obtained my PhD in Technology and Operations. My research interests are in revenue management, information design, and stochastic models. Feel free to contact me at zhenyu[dot]zhangmeng[at]ucl[dot]ac[dot]uk.
 
 Research
 ======
