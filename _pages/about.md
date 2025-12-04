@@ -15,7 +15,7 @@ Research
 2. Hyun-Soo Ahn, Eren Cetinkaya, Izak Duenyas, Mengzhenyu Zhang, “Benefits of collaboration in capacity investment and allocation”, ***Production and Operations Management*** 33(1), 128-145, 2024. [link](https://journals.sagepub.com/doi/10.1177/10591478231224918)
 3. Hyun-Soo Ahn, Christopher Ryan, Joline Uichanco, Mengzhenyu Zhang, “Certainty-equivalent pricing with dependent demand and limited price-changing opportunities”, accepted at ***Mathematics of Operations Research***. [link](https://pubsonline.informs.org/doi/abs/10.1287/moor.2022.0330)
 – Spotlight presentation at 2019 Revenue Management and Pricing Conference (top 20% of full paper submissions)
-4. Mengzhenyu Zhang, Christopher Ryan, Wei Sun, Shivaram Subramanian, Markus Ettl, “Attribute-based pricing: A nested logit approach”, submitted. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4258247)
+4. Mengzhenyu Zhang, Christopher Ryan, Wei Sun, Shivaram Subramanian, Markus Ettl, “Attribute-based pricing: A nested logit approach”, Major revision at ***Informs Journal on Computing***. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4258247)
 5. Hyun-Soo Ahn, Christopher Ryan, Joline Uichanco, Mengzhenyu Zhang, “Valuing influence with social learning”, accepted at ***Manufacturing and Service Operations Management***. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4527310)
 6. Zi Ling, Christopher Ryan, Mengzhenyu Zhang, “On the interplay between pricing and information policies in monopoly selling”, submitted. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5047585)
 7. Mengzhenyu Zhang, Fan Zhou, “How much information should be revealed on food freshness?”, submitted. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5378554)
