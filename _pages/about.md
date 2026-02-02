@@ -21,7 +21,7 @@ Research
 7. Mengzhenyu Zhang, Fan Zhou, “How much information should be revealed on food freshness?”, Major revision at ***Marketing Science***. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5378554)
 8. Hyun-Soo Ahn, Mengzhenyu Zhang, Zijin Zhang, “Online decisions with (biased) offline data”, Major revision at ***Operations Research***. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5350921)
 9. Izak Duenyas, Ozge Sahin, Mengzhenyu Zhang, “Advance selling under dynamic uncertainty and time-dependent penalty”, submitted. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5735983)
-10. Yiming Liu, Mengzhenyu Zhang, "A Knapsack Structure in Dynamic Information Design". [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6156088)
+10. Yiming Liu, Mengzhenyu Zhang, “A Knapsack Structure in Dynamic Information Design”. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6156088)
 
 
 Teaching
