@@ -19,7 +19,7 @@ Research
 5. Hyun-Soo Ahn, Christopher Ryan, Joline Uichanco, Mengzhenyu Zhang, “Valuing influence with social learning”, accepted at ***Manufacturing and Service Operations Management***. [link](https://pubsonline.informs.org/doi/abs/10.1287/msom.2025.0348)
 6. Zi Ling, Christopher Ryan, Mengzhenyu Zhang, “On the interplay between pricing and information policies in monopoly selling”, submitted. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5047585)
 7. Mengzhenyu Zhang, Fan Zhou, “How much information should be revealed on food freshness?”, Major revision at ***Marketing Science***. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5378554)
-8. Hyun-Soo Ahn, Mengzhenyu Zhang, Zijin Zhang, “Online decisions with (biased) offline data”, Major revision at ***Operations Research***. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5350921)
+8. Hyun-Soo Ahn, Mengzhenyu Zhang, Zijin Zhang, “Online decisions with (biased) offline data”, Minor revision at ***Operations Research***. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5350921)
 9. Izak Duenyas, Ozge Sahin, Mengzhenyu Zhang, “Advance selling under dynamic uncertainty and time-dependent penalty”, submitted. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5735983)
 10. Yiming Liu, Mengzhenyu Zhang, “A Knapsack Structure in Dynamic Information Design”. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6156088)
 
