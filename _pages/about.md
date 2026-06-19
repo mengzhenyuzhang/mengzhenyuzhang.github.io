@@ -11,11 +11,11 @@ Hello! Welcome to my website. I am an Assistant Professor in Operations & Techno
 
 Publications
 ======
-1. Mengzhenyu Zhang, Hyun-Soo Ahn, Joline Uichanco, “Data-driven pricing for a new product”, ***Operations Research*** 70(2), 847-866, 2022. [link](https://pubsonline.informs.org/doi/abs/10.1287/opre.2021.2204)
-2. Hyun-Soo Ahn, Eren Cetinkaya, Izak Duenyas, Mengzhenyu Zhang, “Benefits of collaboration in capacity investment and allocation”, ***Production and Operations Management*** 33(1), 128-145, 2024. [link](https://journals.sagepub.com/doi/10.1177/10591478231224918)
-3. Hyun-Soo Ahn, Christopher Ryan, Joline Uichanco, Mengzhenyu Zhang, “Certainty-equivalent pricing with dependent demand and limited price-changing opportunities”, ***Mathematics of Operations Research*** 51(1), 498-541, 2025. [link](https://pubsonline.informs.org/doi/abs/10.1287/moor.2022.0330)
+1. Hyun-Soo Ahn, Christopher Ryan, Joline Uichanco, Mengzhenyu Zhang, “Valuing influence with social learning”, forthcoming at ***Manufacturing and Service Operations Management***, 2025. [link](https://pubsonline.informs.org/doi/abs/10.1287/msom.2025.0348)
+2. Hyun-Soo Ahn, Christopher Ryan, Joline Uichanco, Mengzhenyu Zhang, “Certainty-equivalent pricing with dependent demand and limited price-changing opportunities”, ***Mathematics of Operations Research*** 51(1), 498-541, 2025. [link](https://pubsonline.informs.org/doi/abs/10.1287/moor.2022.0330)
 – Spotlight paper at 2019 INFORMS Revenue Management and Pricing Conference
-4. Hyun-Soo Ahn, Christopher Ryan, Joline Uichanco, Mengzhenyu Zhang, “Valuing influence with social learning”, forthcoming at ***Manufacturing and Service Operations Management***, 2025. [link](https://pubsonline.informs.org/doi/abs/10.1287/msom.2025.0348)
+3. Hyun-Soo Ahn, Eren Cetinkaya, Izak Duenyas, Mengzhenyu Zhang, “Benefits of collaboration in capacity investment and allocation”, ***Production and Operations Management*** 33(1), 128-145, 2024. [link](https://journals.sagepub.com/doi/10.1177/10591478231224918)
+4. Mengzhenyu Zhang, Hyun-Soo Ahn, Joline Uichanco, “Data-driven pricing for a new product”, ***Operations Research*** 70(2), 847-866, 2022. [link](https://pubsonline.informs.org/doi/abs/10.1287/opre.2021.2204)
 
 Working papers
 ======
