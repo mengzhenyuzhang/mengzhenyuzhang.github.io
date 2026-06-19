@@ -34,10 +34,11 @@ Working papers
 Teaching
 ======
 ### School of Management, University College London
-- Instructor: MSIN0095 Operations Analytics (22 Winter, 23 Winter, 24 Winter, evaluation: 4.7/5)
+- Module leader: MSIN0095 Operations Analytics (22 Winter, 23 Winter, 24 Winter, 25 Winter) for MSc Business Analytics
+- Module leader: Operations Analytics (26 Summer) for UCL-PKU MBA
 
 ### Stephen M. Ross School of Business, University of Michigan
-- Instructor: TO 302 Operations Management (18 Winter, class size: 68, evaluation: 4/5)
+- Instructor: TO 302 Operations Management (18 Winter)
 - Teaching Assistant:
   * TO 301: Business Statistics and Management Science (16 Fall)
   * TO 502: Business Statistics (17 Fall)
