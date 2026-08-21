@@ -11,7 +11,8 @@ Hello! Welcome to my website. I am an Assistant Professor in Operations & Techno
 
 Publications
 ======
-* Hyun-Soo Ahn, Christopher Ryan, Joline Uichanco, Mengzhenyu Zhang, “Valuing influence with social learning”, forthcoming at ***Manufacturing and Service Operations Management***, 2025. [link](https://pubsonline.informs.org/doi/abs/10.1287/msom.2025.0348)
+* Hyun-Soo Ahn, Mengzhenyu Zhang, Zijin Zhang, “Online decisions with (biased) offline data”, forthcoming at ***Operations Research***, 2026. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5350921)
+* Hyun-Soo Ahn, Christopher Ryan, Joline Uichanco, Mengzhenyu Zhang, “Valuing influence with social learning”, ***Manufacturing and Service Operations Management*** 28(4), 1133-1153, 2025. [link](https://pubsonline.informs.org/doi/abs/10.1287/msom.2025.0348)
 * Hyun-Soo Ahn, Christopher Ryan, Joline Uichanco, Mengzhenyu Zhang, “Certainty-equivalent pricing with dependent demand and limited price-changing opportunities”, ***Mathematics of Operations Research*** 51(1), 498-541, 2025. [link](https://pubsonline.informs.org/doi/abs/10.1287/moor.2022.0330)
 – Spotlight paper at 2019 INFORMS Revenue Management and Pricing Conference
 * Hyun-Soo Ahn, Eren Cetinkaya, Izak Duenyas, Mengzhenyu Zhang, “Benefits of collaboration in capacity investment and allocation”, ***Production and Operations Management*** 33(1), 128-145, 2024. [link](https://journals.sagepub.com/doi/10.1177/10591478231224918)
@@ -20,7 +21,6 @@ Publications
 Working papers (ordered by time finished)
 ======
 * Yiming Liu, Mengzhenyu Zhang, “A Knapsack Structure in Dynamic Information Design”, **submitted**, 2026. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6156088)
-* Hyun-Soo Ahn, Mengzhenyu Zhang, Zijin Zhang, “Online decisions with (biased) offline data”, **Minor revision** at *Operations Research*, 2025. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5350921)
 * Izak Duenyas, Ozge Sahin, Mengzhenyu Zhang, “Advance selling under dynamic uncertainty and time-dependent penalty”, **reject and resubmit** at *Manufacturing and Service Operations Management*, 2025. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5735983)
 * Mengzhenyu Zhang, Fan Zhou, “How much is enough? Strategic information provision under consumer ambiguity”, **Major revision** at *Marketing Science*, 2025. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5378554)
 * Zi Ling, Christopher Ryan, Mengzhenyu Zhang, “On the interplay between pricing and information policies in monopoly selling”, **working paper**, 2024. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5047585)
